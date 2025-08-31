@@ -2,6 +2,6 @@
 	title = {Employment {Protection} and the {Direction} of {Technology} {Adoption}},
 	author = {Manera, Andrea and Uccioli, Martina},
 	year = {2021},
-journal = {Working Paper}, 
-note = { {SSRN ID 3754464} }
+	journal = {Working Paper}, 
+	note = { {SSRN ID 3754464} }
 }
