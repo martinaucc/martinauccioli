@@ -1,0 +1,6 @@
+@article{ciasullo2025whatworks,
+	title = {What {Works} for {Working} {Couples}? {Work} {Arrangements}, {Maternal} {Labor} {Supply}, and the {Division} of {Home} {Production}},
+	journal = {CESifo Working Paper No. 12105},
+	author = {Ciasullo, Ludovica and Uccioli, Martina},
+	year = {2025},
+}
