@@ -1,7 +1,6 @@
 @article{ditellauccioli2026,
 	series = {Centre for {Inclusive} {Trade} {Policy} {Working} {Papers}},
 	title = {Gender norms and household responses to economic shocks},
-	language = {en},
 	journal = {CITP Working Paper 041},
 	author = {Di Tella, Isabel and Uccioli, Martina},
 	year = {2026},
